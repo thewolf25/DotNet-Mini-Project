@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS1030: Directive #warning
+dotnet_diagnostic.CS1030.severity = none
