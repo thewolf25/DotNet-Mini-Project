@@ -13,7 +13,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 
-namespace dotnetBRAHIMNAMMOUCHI
+namespace miniProject
 {
     public class Startup
     {

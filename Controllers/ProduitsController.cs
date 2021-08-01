@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using dotnetBRAHIMNAMMOUCHI.Models;
+using miniProject.Models;
 
-namespace dotnetBRAHIMNAMMOUCHI.Controllers
+namespace miniProject.Controllers
 {
     public class ProduitsController : Controller
     {

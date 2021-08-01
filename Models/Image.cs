@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 #nullable disable
 
-namespace dotnetBRAHIMNAMMOUCHI.Models
+namespace miniProject.Models
 {
     public partial class Image
     {

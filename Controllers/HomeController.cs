@@ -1,13 +1,13 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using dotnetBRAHIMNAMMOUCHI.Models;
+using miniProject.Models;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace dotnetBRAHIMNAMMOUCHI.Controllers
+namespace miniProject.Controllers
 {
     public class HomeController : Controller
     {

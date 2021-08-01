@@ -1,25 +1,26 @@
-﻿@model IEnumerable<dotnetBRAHIMNAMMOUCHI.Models.Produit>
+﻿@model IEnumerable<miniProject.Models.Produit>
 
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Liste produits</h1>
+<h1>Products list</h1>
+<hr />
 
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
+<table class="table table-striped">
     <thead>
         <tr>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.Reference)
             </th>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.Description)
             </th>
-            <th></th>
+            <th scope="col"></th>
         </tr>
     </thead>
     <tbody>

@@ -1,16 +1,15 @@
-﻿@model dotnetBRAHIMNAMMOUCHI.Models.Utilisateur
+﻿@model miniProject.Models.Utilisateur
 
 @{
     ViewData["Title"] = "Create";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Create</h1>
+<h1 class="text-center">Create User</h1>
 
-<h4>Utilisateur</h4>
 <hr />
 <div class="row">
-    <div class="col-md-4">
+    <div class="offset-3 col-md-4">
         <form asp-action="Inscription">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">

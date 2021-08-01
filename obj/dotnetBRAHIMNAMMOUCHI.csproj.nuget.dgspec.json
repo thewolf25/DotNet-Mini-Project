@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\Desktop\\TEK-UP\\.NET\\projet1\\dotnetBRAHIMNAMMOUCHI\\dotnetBRAHIMNAMMOUCHI.csproj": {}
+    "E:\\DotNet\\projet-DotNet\\dotnetBRAHIMNAMMOUCHI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\Desktop\\TEK-UP\\.NET\\projet1\\dotnetBRAHIMNAMMOUCHI\\dotnetBRAHIMNAMMOUCHI.csproj": {
+    "E:\\DotNet\\projet-DotNet\\dotnetBRAHIMNAMMOUCHI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\TEK-UP\\.NET\\projet1\\dotnetBRAHIMNAMMOUCHI\\dotnetBRAHIMNAMMOUCHI.csproj",
+        "projectUniqueName": "E:\\DotNet\\projet-DotNet\\dotnetBRAHIMNAMMOUCHI.csproj",
         "projectName": "dotnetBRAHIMNAMMOUCHI",
-        "projectPath": "C:\\Users\\lenovo\\Desktop\\TEK-UP\\.NET\\projet1\\dotnetBRAHIMNAMMOUCHI\\dotnetBRAHIMNAMMOUCHI.csproj",
-        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Desktop\\TEK-UP\\.NET\\projet1\\dotnetBRAHIMNAMMOUCHI\\obj\\",
+        "projectPath": "E:\\DotNet\\projet-DotNet\\dotnetBRAHIMNAMMOUCHI.csproj",
+        "packagesPath": "C:\\Users\\the wolf\\.nuget\\packages\\",
+        "outputPath": "E:\\DotNet\\projet-DotNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\the wolf\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

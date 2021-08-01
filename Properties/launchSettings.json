@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "dotnetBRAHIMNAMMOUCHI": {
+    "miniProject": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,

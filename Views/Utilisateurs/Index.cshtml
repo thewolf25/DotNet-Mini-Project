@@ -1,25 +1,25 @@
-﻿@model IEnumerable<dotnetBRAHIMNAMMOUCHI.Models.Utilisateur>
+﻿@model IEnumerable<miniProject.Models.Utilisateur>
 
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Liste utilisateurs</h1>
+<h1>Users List</h1>
 
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
+<table class="table table-striped">
     <thead>
         <tr>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.Email)
             </th>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.Motdepasse)
             </th>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.Role)
             </th>
             <th></th>
